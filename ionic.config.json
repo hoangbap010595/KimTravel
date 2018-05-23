@@ -1,0 +1,8 @@
+{
+  "name": "kimtravelmobile",
+  "app_id": "a00d052d",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
